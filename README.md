@@ -1,2 +1,4 @@
 # Parallel-self-assembling-peptides
-Data and code for the design of parallel self-assembling peptides (Sarma et. al.)
+This repository contains the data and python codes associated with the paper-Design of parallel beta-sheet nanofibrils using Monte-Carlo search, coarse-grained simulations and experimental testing, submitted to Protein Science.
+
+# Data for paper
